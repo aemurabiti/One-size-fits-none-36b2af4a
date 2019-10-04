@@ -1,0 +1,24 @@
+body {
+	background-color: #001a00;
+}
+
+h1 {
+    color: #800044;
+    font-family: sans-serif;
+    font-size: 40px;
+}
+
+h2 {
+	font-family: sans-serif;
+	color: #FF1493;
+	font-size: 28px;
+}
+
+li {
+	color: #4d0029;
+}
+
+a {
+	color: #ffb3db;
+	font-size: 18px;
+}
